@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yescertified
 - 👀 I’m interested in Cloud Computing and Cybersecurity
-- 🌱 I’m currently doing deep dives on Kubernetes and later on Service meshes
-- 💞️ I’m looking to collaborate on cloud projects and coding in python
+- 💞️ I’m looking to collaborate on cloud projects and cybersecurity projects
 - 📫 You can reach me at support@yescertified.com
 
 <!---
